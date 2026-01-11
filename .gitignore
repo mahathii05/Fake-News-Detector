@@ -1,0 +1,8 @@
+# Ignore datasets
+*.csv
+
+# Ignore virtual environment
+.venv/
+
+# Ignore model artifacts (optional)
+__pycache__/
